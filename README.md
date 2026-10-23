@@ -29,7 +29,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/<你的用户名>/image-toolkit.git
+git clone https://github.com/payday987/image-toolkit.git
 cd image-toolkit
 
 # 直接双击 index.html，或用任意浏览器打开
