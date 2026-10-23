@@ -8,6 +8,8 @@
 
 > 不需要安装、不需要后端、不需要联网处理，打开即用。
 
+### 🚀 [点此在线直接使用](https://htmlpreview.github.io/?https://github.com/payday987/image-toolkit/blob/main/index.html)（无需下载，浏览器打开即用）
+
 ![图片压缩效果](docs/compress.jpg)
 
 ![调整大小效果](docs/resize.jpg)
@@ -35,9 +37,9 @@ cd image-toolkit
 # 直接双击 index.html，或用任意浏览器打开
 ```
 
-### 在线使用
+### 在线使用（免下载）
 
-打开仓库后，点击 `index.html` 文件即可在浏览器中预览使用。
+直接点击 👉 **[在线打开工具箱](https://htmlpreview.github.io/?https://github.com/payday987/image-toolkit/blob/main/index.html)**，在浏览器中即可使用，所有处理在本地完成。
 
 ## 使用说明
 
